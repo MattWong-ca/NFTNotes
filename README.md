@@ -4,4 +4,4 @@ Course: [The Complete NFT Web Development Course - Zero To Expert](https://www.u
 ### MetaMask
 - Crypto wallet
 - [Intro video](https://www.youtube.com/watch?v=YVgfHZMFFFQ&t=4s&ab_channel=MetaMask)
-- Secret Recovery Phrase is a 12-word phrase
+- Secret Recovery Phrase (12 words)
