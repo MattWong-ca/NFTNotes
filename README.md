@@ -1,5 +1,9 @@
 # NFT Notes 🐂
-Course: [The Complete NFT Web Development Course - Zero To Expert](https://www.udemy.com/course/the-complete-nft-web-developer-course-zero-to-professional/)
+Courses: 
+</br>
+[The Complete NFT Web Development Course - Zero To Expert](https://www.udemy.com/course/the-complete-nft-web-developer-course-zero-to-professional/)
+</br>
+[Blockchain Programming in iOS Using Swift](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift)
 
 ## Dev Environment
 - MetaMask (crypto wallet)
@@ -29,3 +33,10 @@ Course: [The Complete NFT Web Development Course - Zero To Expert](https://www.u
 
 ## Web3 LinkedIn Content Creators
 - [Airtable](https://airtable.com/shrPIbJqeJDiTvBN3/tblA3xKgIgYohjqj8/viweV7XkhqvaNFpdG)
+
+## Cryptography
+- SHA256
+
+## Mining
+- Lots of guessing to find right # and uses powerful computers, but also rewarded with incentives
+- [Nonce](https://www.okta.com/identity-101/nonce/): arbitrary and randomly generated number for security
