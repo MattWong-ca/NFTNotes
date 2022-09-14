@@ -30,10 +30,6 @@ Courses:
 - Smart contract languages are compiled to low-level machine instruction called opcodes
 - EVM uses 256-bit register stack
 
-
-## Web3 LinkedIn Content Creators
-- [Airtable](https://airtable.com/shrPIbJqeJDiTvBN3/tblA3xKgIgYohjqj8/viweV7XkhqvaNFpdG)
-
 ## Cryptography
 - SHA256
 
