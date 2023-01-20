@@ -36,3 +36,4 @@ Courses:
 ## Mining
 - Lots of guessing to find right # and uses powerful computers, but also rewarded with incentives
 - [Nonce](https://www.okta.com/identity-101/nonce/): arbitrary and randomly generated number for security
+- [Bitcoin Mining is NOT Solving Complex Math Problems [Beginner's Guide]](https://braiins.com/blog/bitcoin-mining-analogy-beginners-guide)
