@@ -2,8 +2,6 @@
 Courses: 
 </br>
 [The Complete NFT Web Development Course - Zero To Expert](https://www.udemy.com/course/the-complete-nft-web-developer-course-zero-to-professional/)
-</br>
-[Blockchain Programming in iOS Using Swift](https://www.linkedin.com/learning/blockchain-programming-in-ios-using-swift)
 
 ## Dev Environment
 - MetaMask (crypto wallet)
@@ -22,7 +20,7 @@ Courses:
 - EIP = Ethereum Improvement Proposal
   - [EIP-721: Non-Fungible Token Standard](https://eips.ethereum.org/EIPS/eip-721)
 - ERC721 = non-fungible
-- ERC720 = fungible
+- ERC20 = fungible
 
 
 ## Ethereum Virtual Machine
