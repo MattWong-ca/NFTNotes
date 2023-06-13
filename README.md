@@ -35,3 +35,6 @@ Courses:
 - Lots of guessing to find right # and uses powerful computers, but also rewarded with incentives
 - [Nonce](https://www.okta.com/identity-101/nonce/): arbitrary and randomly generated number for security
 - [Bitcoin Mining is NOT Solving Complex Math Problems [Beginner's Guide]](https://braiins.com/blog/bitcoin-mining-analogy-beginners-guide)
+
+## IPFS
+- [How to Use IPFS by Decrypt](https://decrypt.co/resources/how-to-use-ipfs-the-backbone-of-web3)
