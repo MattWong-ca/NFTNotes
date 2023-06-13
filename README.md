@@ -38,3 +38,8 @@ Courses:
 
 ## IPFS
 - [How to Use IPFS by Decrypt](https://decrypt.co/resources/how-to-use-ipfs-the-backbone-of-web3)
+
+## Token Bound Accounts (ERC-6551)
+- [What Is ERC-6551 by CoinMarketCap](https://coinmarketcap.com/alexandria/article/what-is-erc-6551)
+- [What Is ERC-6551 by thirdweb](https://blog.thirdweb.com/erc-6551-token-bound-accounts/)
+- [Pinata](https://medium.com/pinata/a-new-era-erc-6551-and-token-bound-accounts-tbas-de4c7b79a79a)
